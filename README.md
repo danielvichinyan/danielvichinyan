@@ -41,7 +41,7 @@
 
 ---
 
-<img align="left" alt="My Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=danielvichinyan&show_icons=true&hide_border=true" />
+[![Daniels's github stats](https://github-readme-stats.vercel.app/api?username=danielvichinyan&show_icons=true&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 [twitter]: https://twitter.com/vichinyan
 [instagram]: https://www.instagram.com/danielvichinqn/?hl=en
