@@ -1,4 +1,4 @@
-### Hi there, Daniel Vichinyan! 👋
+### Hi there, I am Daniel Vichinyan! 👋
 
 ## I'm a Student and a Developer!
 - 🔭 I'm a final year student at the University of Surrey!
