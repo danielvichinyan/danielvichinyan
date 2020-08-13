@@ -42,7 +42,7 @@
 
 ---
 
-[![Daniels's github stats](https://github-readme-stats.vercel.app/api?username=danielvichinyan&show_icons=true&hide_border=true&count_private=true&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
+[![Daniels's github stats](https://github-readme-stats.vercel.app/api?username=danielvichinyan&show_icons=true&hide_border=true&count_private=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 [twitter]: https://twitter.com/vichinyan
 [instagram]: https://www.instagram.com/danielvichinqn/?hl=en
