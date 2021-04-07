@@ -4,7 +4,7 @@
 - 🔭 I'm a final year student at the University of Surrey!
 - 🌱 I'm currently learning everything 
 - 👯 I'm looking to collaborate with other content creators
-- 🥅 2020 Goals: Contribute more to Open Source projects
+- 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ I'm looking to start a new job!
 
 ### Connect with me:
