@@ -3,7 +3,7 @@
 ## I'm a Student and a Developer!
 - 🔭 I'm a final year student at the University of Surrey!
 - 🌱 I'm currently learning everything
-- ⚡ I'm looking working as a Full-Stack Developer! 
+- ⚡ I'm currenty working as a Full-Stack Developer! 
 - 👯 I'm looking to collaborate with other content creators
 - 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ I'm looking for new challenges!
