@@ -48,4 +48,4 @@
 
 [twitter]: https://twitter.com/vichinyan
 [instagram]: https://www.instagram.com/danielvichinqn/?hl=en
-[linkedin]: https://www.linkedin.com/feed/
+[linkedin]: https://www.linkedin.com/in/danielvichinyan/
