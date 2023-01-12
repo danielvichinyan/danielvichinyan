@@ -2,7 +2,7 @@
 
 ## I'm a Graduate and a Developer!
 - 🔭 I'm a Computer Science graduate from the University of Surrey! I graduated with Second Upper Class Honours!
-- 🌱 I'm currently learning everything
+- 🌱 Blockchain and Crypto Activist
 - ⚡ I'm currently working as a Full-Stack Developer! 
 - 👯 I'm looking to collaborate with other content creators
 - 🥅 2023 Goals: Contribute more to Open Source projects
