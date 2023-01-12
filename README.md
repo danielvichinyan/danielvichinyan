@@ -5,7 +5,7 @@
 - 🌱 I'm currently learning everything
 - ⚡ I'm currently working as a Full-Stack Developer! 
 - 👯 I'm looking to collaborate with other content creators
-- 🥅 2022 Goals: Contribute more to Open Source projects
+- 🥅 2023 Goals: Contribute more to Open Source projects
 - ⚡ I'm looking for new challenges!
 
 ### Connect with me:
