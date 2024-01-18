@@ -6,7 +6,7 @@
 - 🌱 Blockchain and Crypto Activist
 - ⚡ I'm currently working as a Full-Stack Developer! 
 - 👯 I'm looking to collaborate with other content creators
-- 🥅 2023 Goals: Contribute more to Open Source projects
+- 🥅 2024 Goals: Contribute more to Open Source projects
 - ⚡ I'm looking for new challenges!
 
 ### Connect with me:
