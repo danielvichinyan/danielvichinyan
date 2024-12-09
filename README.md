@@ -2,7 +2,7 @@
 
 ## I'm a Graduate and a Developer!
 - 🔭 I'm a Computer Science graduate from the University of Surrey! I graduated with Second Upper Class Honours!
-- 💻 I'm a passionate Full-Stack Developer with more than 5 years of experience
+- 💻 I'm a passionate Tech Lead/Senior Developer with more than 5 years of experience
 - 🌱 Blockchain and Crypto Activist
 - ⚡ I'm currently working as a Full-Stack Developer! 
 - 👯 I'm looking to collaborate with other content creators
