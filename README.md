@@ -6,7 +6,7 @@
 - 🌱 Blockchain and Crypto Activist
 - ⚡ I'm currently working as a Tech Lead at Spaceflux! 
 - 👯 I'm looking to collaborate with other content creators
-- 🥅 2025 Goals: Contribute more to Open Source projects
+- 🥅 2026 Goals: Contribute more to Open Source projects
 - ⚡ I'm looking for new challenges!
 
 ### Connect with me:
