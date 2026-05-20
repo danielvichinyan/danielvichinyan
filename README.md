@@ -45,7 +45,7 @@
 
 ---
 
-[![Daniel's GitHub stats](https://github-readme-stats.vercel.app/api?username=danielvichinyan)](https://github.com/anuraghazra/github-readme-stats)
+[![Daniel's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=danielvichinyan)](https://github.com/anuraghazra/github-readme-stats)
 
 [twitter]: https://twitter.com/vichinyan
 [instagram]: https://www.instagram.com/danielvichinqn/?hl=en
